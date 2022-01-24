@@ -44,7 +44,7 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 SIMPLE BGM BOT ONLY!
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AdithyanMS/AMRU-SER-QR?v=1)
   
 ### The Hard Method
 ```js
